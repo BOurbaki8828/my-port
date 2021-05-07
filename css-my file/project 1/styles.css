@@ -1,0 +1,17 @@
+div{
+    background-color: #b0efeb; width: 200px;
+    height: 200px;
+    border: solid 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.first-container{
+    background-color: rosybrown; width: 200px;  height: 200px; border: solid 20px; margin-left: 260px; padding-left:0; padding-right: 0;
+}
+.second-container{
+    background-color: slategrey; width: 200px; height: 200px;
+    border: solid 10px; margin-left: 500px;
+}
+.p1 {
+    font-family: "Courier New", 'Courier New', Courier, monospace, serif;
+  }
